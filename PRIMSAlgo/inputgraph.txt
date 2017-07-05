@@ -1,0 +1,26 @@
+10 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+A B 1
+C D 5
+B C 2
+F G 3
+H I 1
+J C 3
+D F 5
+H G 2
+J A 1
+B E 1
+E F 2
+E H 3
+G I 1
+G J 1
+B D 2

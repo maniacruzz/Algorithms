@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../KruskalsAlgo/.idea/KruskalsAlgo.iml" filepath="$PROJECT_DIR$/../KruskalsAlgo/.idea/KruskalsAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PRIMSAlgo.iml" filepath="$PROJECT_DIR$/.idea/PRIMSAlgo.iml" />
+    </modules>
+  </component>
+</project>
